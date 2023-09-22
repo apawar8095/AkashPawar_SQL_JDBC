@@ -1,4 +1,4 @@
-#AkashPawar_SQL_JDBC/tree/main/JDBC_graded_assignment
+#AkashPawar_SQL_JDBC
 
 in backend 
 created new db
